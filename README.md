@@ -13,7 +13,7 @@ A simple and aesthetic photo-sharing web application built with React and Fireba
 * Backend/Database: Firebase (Firestore, Auth, Storage)
 * Styling: CSS
 
-## Live demo: https://instagram-clone-tcj9.vercel.app/
+## Live demo: https://snap-n-share.vercel.app/
 
 🚀 Getting Started
 Prerequisites
